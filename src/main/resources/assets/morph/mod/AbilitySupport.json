@@ -2088,7 +2088,7 @@
   
   
   "net.minecraft.entity.passive.EntityBat": [
-    "fly|true"
+    "fly|false"
   ],
   "net.minecraft.entity.monster.EntityBlaze": [
     "fly|false",
